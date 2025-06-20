@@ -37,3 +37,5 @@ Both datasets have:
 ✔ Trains model (PassiveAggressiveClassifier)
 ✔ Evaluates with accuracy & confusion matrix
 ✔ Accepts real-time news input for prediction (CLI)
+
+## 🙏 Acknowledgment This project was created as part of a one-month internship with Elevate Labs in May 2025. Special thanks to our mentors for their continuous guidance and support throughout the development phase.
